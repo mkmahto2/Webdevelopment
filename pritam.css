@@ -1,0 +1,19 @@
+h2{
+
+color: firebrick; 
+font-size: 300%;
+font-family: verdana;
+border: darkgray;
+}
+p{
+    color: purple;
+    font-family: courier;
+    font-size: 170%;
+    border: 4px solid magenta;
+    padding: 2px;
+    margin: 1px;
+}
+h1{
+    color: maroon;
+    background-color: mintcream;
+}
